@@ -1,0 +1,6 @@
+you are working on the main branch of your project. you accidentlly made some changes to the file app.py
+ that you dont want to keep the changes are not yet staaged or committed.you now want to :
+1.Discard the changes made to app.js and revert it back to the last committed state.
+2.check the git status to ensure ther are no pending changes.
+3.pull the latest changes from the remote reposityr.
+
